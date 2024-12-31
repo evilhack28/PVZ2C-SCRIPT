@@ -1,0 +1,1 @@
+Fix script downloaded only the new pvz2_l.txt after the 25 try limit
