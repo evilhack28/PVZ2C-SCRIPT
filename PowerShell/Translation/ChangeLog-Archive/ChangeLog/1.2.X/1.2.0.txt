@@ -1,0 +1,4 @@
+The script now creates the OLD and NEW folders
+The text is yellow for 'No update required
+The script starts immediately after pasting, with no need to press Enter
+The download time is displayed with microsecond precision
